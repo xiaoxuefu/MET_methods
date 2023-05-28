@@ -14,8 +14,8 @@
 * **Inspecting Accuracy** (Manuscript Sction 4.1): A MATLAB tool for annotating and calculating the spatial offset (in degree of visual angle) between the point of gaze and the target location that the participant is directed to look at during validation procedure. 
 * **Inspecting Precision** (Section 4.2): A MATLAB tool for visualizing and estimating the patial distribution of gaze coordinates. 
 * **Estimating Error Tolerance** (Section 5): A MATLAB tool for calculating the size of a bullseye (in degree of visual angle) used for manual annotation of the are of interest (AOI). A visual aid (e.g., a bullseye) is often used for determining the AOI that the participant is look at in manual annotation. This tool help researchers to determine the appropriate sizes of the circles based on the participants' gaze data accuracy.  
-* **Visualization of Gaze Events**: Examples for implementing *timevp* (A MATLAB toolkit) and *GridWare* (A JAVA program) for data visualization. 
-* **Growth Curve Modeling and Visualization**: An R Markdown for fitting growth curve models using the gaze event data and visualizing the results. 
+* **Visualization of Gaze Events** (Section 6): Examples for implementing *timevp* (A MATLAB toolkit) and *GridWare* (A JAVA program) for data visualization. 
+* **Growth Curve Modeling and Visualization** (Section 7): An R Markdown for fitting growth curve models using the gaze event data and visualizing the results. 
 
 ## Tools / Programs Implemented:
 
