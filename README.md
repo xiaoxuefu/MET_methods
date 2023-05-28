@@ -5,7 +5,7 @@
 
 ## Descriptions:
 
-***Mobile eye tracking (MET)***, or head-mounted eye tracking is a tool for recording participant-perspective gaze in the context of active behavior. Recent technological developments in MET hardware enable researchers to capture egocentric vision as early as infancy and across the lifespan. However, challenges remain in MET data collection, processing, and analysis. The paper and the assoicated repository aims to provide a practical guide and computer programs that facilitate the use of MET in psychological research. 
+***Mobile eye tracking (MET)***, or head-mounted eye tracking, is a tool for recording participant-perspective gaze in the context of active behavior. Recent technological developments in MET hardware enable researchers to capture egocentric vision as early as infancy and across the lifespan. However, challenges remain in MET data collection, processing, and analysis. The paper and the assoicated repository aims to provide a practical guide and computer programs that facilitate the use of MET in psychological research. 
 
 **Code Contributors:** John M. Franchak, Xiaoxue Fu, Kelley E. Gunther, Samuel Harding, Julia Yurkovic-Harding
 
@@ -33,5 +33,5 @@ The ACTION study (James S. Mcdonnell Foundation grant to Bradshaw) examines 4- a
 
 ## Additional MET Resources:
 
-[ICIS Head-Mounted Eye Tracking Workshop 2022](https://github.com/ICIS-HMET-Workshop/workshop_materials_2022): A tutorial on using head-mounted eye tracking in infant research
+[ICIS Head-Mounted Eye Tracking Workshop 2022](https://github.com/ICIS-HMET-Workshop/workshop_materials_2022): A tutorial on using head-mounted eye tracking in infant research. It also provide links to additional MET data processing and visualization tools. 
 
