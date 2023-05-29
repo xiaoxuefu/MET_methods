@@ -1,4 +1,5 @@
 % EXTERNAL SCRIPT THAT RUNS MET_gaze_heatmap FUNCTION TO RECREATE FIGURE 2
+
 %   Written by Dr. Julia Yurkovic-Harding
 %   Updated May 2024 for Fu et al. (2023)
 %   Contact info: yurkovicharding@sc.edu
