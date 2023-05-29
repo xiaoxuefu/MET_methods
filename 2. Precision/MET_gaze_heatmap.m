@@ -1,6 +1,7 @@
 function [fig,rmse_gazeCenter,rmse_sceneCenter] = MET_gaze_heatmap(x_coord,y_coord,pupil,x_pixels,y_pixels)
 
 % EYE GAZE HEAT MAP FROM X- AND Y-COORDINATES OF GAZE (MOBILE EYE TRACKING)
+
 %   Written by Drs. Julia Yurkovic-Harding and Samuel M. Harding
 %   Updated May 2024 for Fu et al. (2023)
 %   Contact info: yurkovicharding@sc.edu, sh138@mailbox.sc.edu
