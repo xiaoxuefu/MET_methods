@@ -1,6 +1,7 @@
 function [error] = MET_visual_angle_error_calculator(scene_cam_deg_x,scene_cam_deg_y,scene_pixels_x,scene_pixels_y,radius)
 
 % GET VISUAL ANGLE ACCOUNTED FOR BY BULLSEYE -OR- RECOMMENDED BULLSEYE SIZE
+
 %   Written by Dr. Julia Yurkovic-Harding
 %   Updated May 2024 for Fu et al. (2023)
 %   Contact info: yurkovicharding@sc.edu
