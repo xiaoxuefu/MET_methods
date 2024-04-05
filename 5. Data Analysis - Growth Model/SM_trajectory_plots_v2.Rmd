@@ -67,7 +67,7 @@ fig1 <- ggplot(data = data, aes(x = time, y = pred_maskon, group = id)) +
   theme(axis.text=element_text(size=14), axis.title=element_text(size=18,face="bold"))
 fig1
 
-outname <- paste0(fig.outpath,"fig6a_MaskOn.tiff")
+outname <- paste0(fig.outpath,"fig5a_MaskOn.tiff")
 ggsave(outname, height = 6, width = 8)
 
 ```
@@ -103,7 +103,7 @@ fig2 <- ggplot(data = data, aes(x = time, y = pred_maskoff, group = id)) +
   theme(axis.text=element_text(size=14), axis.title=element_text(size=18,face="bold"))
 fig2
 
-outname <- paste0(fig.outpath,"fig6b_MaskOff.tiff")
+outname <- paste0(fig.outpath,"fig5b_MaskOff.tiff")
 ggsave(outname, height = 6, width = 8)
 
 ```

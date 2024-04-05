@@ -14,9 +14,9 @@
 
 % ADDITIONAL NOTES
 % + The script is currently pre-set to run using the angle and recording
-%   size of data presented in Figure 3 in Fu et al. (2023)
+%   size of data presented in Figure 2 in Fu et al. (2023)
 
-%% == MET_fig3_get_error_angle_of_bullseye.m ==============================
+%% == MET_fig2_get_error_angle_of_bullseye.m ==============================
 
 % -- Clean the Workspace --------------------------------------------------
 
