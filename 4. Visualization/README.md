@@ -16,7 +16,7 @@ We coded the child’s looking behavior and the mother’s parenting behavior du
 * Please refer to GridWare Manual for instructions on preparing input data (fig4_trjs/PC_METandBEHgrid.txt, fig4.gwf).
 * Input variable definition in GridWare:
 
-<img width="404" alt="GridWare define variables" src="https://github.com/xiaoxuefu/MET_methods/assets/13022157/a2126b66-6cd0-4486-84d5-1cde6a9eb769">
+![Screenshot 2024-03-09 222648](https://github.com/xiaoxuefu/MET_methods/assets/13022157/41d8c635-256e-48b8-a5ea-b9aa4697a9ce)
 
 * The GridWare Manual provides instructions for obtaining the State and Space Grid and related measures.
 
